@@ -99,11 +99,11 @@ Organization becomes essential as soon as one begins dispatching multiple pitche
 
 ## Alternatives to HARO Link Building for Quality Backlinks
 
-Haro offers an optimal source of acquiring editorial backlinks, but it is not the only option for quality backlinks. If you're looking to diversify your link-building strategy or simply aren't getting enough results from Haro, some alternatives to try are:
+Haro offers an optimal source of acquiring editorial backlinks, but it is not the only option for [quality backlinks](https://blog.oficly.com/white-hat-link-building-for-high-quality-backlinks/). If you're looking to diversify your link-building strategy or simply aren't getting enough results from Haro, some alternatives to try are:
 
 ### 1. Guest Posting
 
-Guest posting is still considered one of the most dependable methods with which to improve backlinking and gain recognition as an authority. You will be requested to write an article for another website in your niche and in exchange, you get a backlink. The backlink could either be in the author bio or could be placed naturally within the content depending on the given arrangement.
+Guest posting is still considered one of the most dependable methods with which to improve backlinking and gain recognition as an authority. You will be requested to write an article for [another website in your niche](https://www.oficly.com/) and in exchange, you get a backlink. The backlink could either be in the author bio or could be placed naturally within the content depending on the given arrangement.
 
 **A reason for successful doing:**
 
@@ -163,8 +163,6 @@ These niche directories can be dedicated to commercial processes, tools, or serv
 - "Top Tools for [Your Industry]"  
 - "Recommended Resources for Small Businesses"  
 - "Best [Your Niche] Agencies or Blogs"  
-
----
 
 ## In Conclusion
 
